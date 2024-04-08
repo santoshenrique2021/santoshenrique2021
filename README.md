@@ -4,7 +4,9 @@
 
 Since 2020, my professional journey has centered around data science and machine learning. With a background in economics and an earned Ph.D. in statistics in 2021, my focus has been on leveraging analytical prowess to tackle real-world business challenges. Proficient in Python, R, and SQL, I seamlessly integrate these tools into my analytical toolkit. Currently, I am applying my expertise as a credit fraud analyst at a leading Brazilian telecom company (called DESKTOP).
 
+## Sobre mim
 
+Desde 2020, minha jornada profissional tem se centrado em ciência de dados e aprendizado de máquina. Com formação em economia e um doutorado em estatística obtido em 2021, meu foco tem sido aproveitar minha capacidade analítica para enfrentar desafios de negócios do mundo real. Proficiente em Python, R e SQL, integro essas ferramentas de forma harmoniosa em meu trabalho. Atualmente, eu sou analista de crédito e prevenção à fraude de uma das principais empresas de telecomunicações do Brasil (chamada DESKTOP).
 
 <!--
 **santoshenrique2021/santoshenrique2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
