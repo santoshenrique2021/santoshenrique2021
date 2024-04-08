@@ -2,7 +2,7 @@
 
 ## About me
 
-Since 2020, my professional journey has centered around data science and machine learning. With a background in economics and a freshly earned Ph.D. in statistics in 2021, my focus has been on leveraging analytical prowess to tackle real-world business challenges. Proficient in Python, R, and SQL, I seamlessly integrate these tools into my analytical toolkit. Currently, I am applying my expertise as a credit fraud analyst at a leading Brazilian telecom company (called DESKTOP).
+Since 2020, my professional journey has centered around data science and machine learning. With a background in economics and an earned Ph.D. in statistics in 2021, my focus has been on leveraging analytical prowess to tackle real-world business challenges. Proficient in Python, R, and SQL, I seamlessly integrate these tools into my analytical toolkit. Currently, I am applying my expertise as a credit fraud analyst at a leading Brazilian telecom company (called DESKTOP).
 
 
 
